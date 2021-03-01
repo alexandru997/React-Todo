@@ -24,11 +24,6 @@
       "id": 5,
       "name": "Personal",
       "colorId": 1
-    },
-    {
-      "name": "Hello Moto",
-      "colorId": 5,
-      "id": 6
     }
   ],
   "tasks": [
@@ -41,21 +36,16 @@
     {
       "id": 2,
       "listId": 2,
-      "text": "Explore design patterns",
+      "text": "Learn React",
       "completed": false
     },
     {
       "id": 3,
       "listId": 2,
-      "text": "ReactJS Hooks (useState, useReducer, useEffect, etc.)",
+      "text": "ReactJS Hooks",
       "completed": true
     },
-    {
-      "id": 4,
-      "listId": 2,
-      "text": "Redux (redux-observable, redux-saga)",
-      "completed": false
-    },
+    
     {
       "listId": 1,
       "text": "Buy Mercedes",
